@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/juspay_scratch_clone/static/css/main.1ed5a79f.css",
+    "main.js": "/juspay_scratch_clone/static/js/main.d2a94ce2.js",
+    "static/js/787.252c5a3f.chunk.js": "/juspay_scratch_clone/static/js/787.252c5a3f.chunk.js",
+    "static/media/img1.jpg": "/juspay_scratch_clone/static/media/img1.ee6b59edb7e7e2d806cc.jpg",
+    "index.html": "/juspay_scratch_clone/index.html",
+    "main.1ed5a79f.css.map": "/juspay_scratch_clone/static/css/main.1ed5a79f.css.map",
+    "main.d2a94ce2.js.map": "/juspay_scratch_clone/static/js/main.d2a94ce2.js.map",
+    "787.252c5a3f.chunk.js.map": "/juspay_scratch_clone/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed5a79f.css",
+    "static/js/main.d2a94ce2.js"
+  ]
+}
